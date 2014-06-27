@@ -4,7 +4,7 @@ USING_NS_CC;
 
 // レイヤーの大きさ
 #define LAYER_WIDTH 480
-#define LAYER_HEIGHT 900
+#define LAYER_HEIGHT 1800
 
 // ビューの大きさ
 #define VIEW_WIDTH 480
